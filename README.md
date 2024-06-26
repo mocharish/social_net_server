@@ -1,6 +1,6 @@
-Link to repository: https://github.com/YehonatanHayat/part3_server.git
+Link to repository: https://github.com/mocharish/social_net_server.git
 
-Link to web repository: https://github.com/YehonatanHayat/part2.git
+Link to web repository: https://github.com/mocharish/social_net_web.git
 
 Link to android repository: https://github.com/mocharish/A.S_part2.git
 
